@@ -9,4 +9,4 @@ If you use scripts or datasets in this repository, please cite the following pap
 # Extended Data:
 Please refer to the following Figshare repository to access training and generated datasets:
 
-{Link to Figshare}
+https://doi.org/10.6084/m9.figshare.28159445
